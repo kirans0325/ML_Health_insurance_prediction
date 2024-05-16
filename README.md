@@ -14,4 +14,4 @@ We've covered the following topics in this project:
 ![Project plot](gaussian.png)
 ![Project plot](scatter.png)
 ![Project plot](Heat.png)
-![Project plot](scatter_fit.png.png)
+![Project plot](scatter_fit.png)
