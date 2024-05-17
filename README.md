@@ -1,6 +1,4 @@
-## Summary and Further Reading
-
-We've covered the following topics in this project:
+## Project learning Summary
 
 - Downloading and exploring a dataset for machine learning
 - Linear regression with one variable using Scikit-learn
